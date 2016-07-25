@@ -8,3 +8,6 @@ seems github.com is not free for private repo, oops
 
 cool,my first github repo is cloned successfully to local host.
 and now, I can edit files and upload
+
+I have deploy my rsa public key to github, so I can push without password.
+
